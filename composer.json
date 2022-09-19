@@ -1,5 +1,5 @@
 {
-  "name": "hhxsv5/laravel-s",
+  "name": "terranc/laravel-s",
   "type": "library",
   "license": "MIT",
   "support": {
@@ -26,7 +26,7 @@
     "inotify",
     "performance"
   ],
-  "homepage": "https://github.com/hhxsv5/laravel-s",
+  "homepage": "https://github.com/terranc/laravel-s",
   "authors": [
     {
       "name": "Xie Biao",
